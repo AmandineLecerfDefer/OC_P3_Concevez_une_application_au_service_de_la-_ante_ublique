@@ -6,6 +6,10 @@
 
 **Durée totale :** 70 heures
 
+Si vous avez des difficultés à voir le contenu des notebooks, vous pouvez les retrouvez ici :
+[Nettoyage](https://nbviewer.org/github/AmandineLecerfDefer/RNCP_DS_OC_P3_Concevez_une_application_au_service_de_la_sante_publique/blob/main/PSante%CC%81_01_notebooknettoyage.ipynb),
+[Exploration](https://nbviewer.org/github/AmandineLecerfDefer/RNCP_DS_OC_P3_Concevez_une_application_au_service_de_la_sante_publique/blob/main/PSante%CC%81_02_notebookexploration.ipynb)
+
 ## Background du projet :
 L'agence "Santé publique France" a lancé un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation. Vous souhaitez y participer et proposer une idée d’application.
 Le jeu de données Open Food Fact est disponible sur le site officiel (https://world.openfoodfacts.org/).
